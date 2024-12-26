@@ -19,7 +19,6 @@ export default function Home() {
         pane1={<Hero />}
         pane2={appMockupImage}
         paddingX="px-32 2xl:px-72"
-        shrinkOnXLg={true}
         />
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
