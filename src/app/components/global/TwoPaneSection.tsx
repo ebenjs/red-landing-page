@@ -1,4 +1,4 @@
-import { ReactNode, useMemo } from 'react';
+import { ReactNode } from 'react';
 
 interface TwoPaneSectionProps {
     pane1: ReactNode;
